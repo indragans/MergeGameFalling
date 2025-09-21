@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MergeFallingGame2D.sln"
+    "dotnet.defaultSolution": "MergeGameFalling.sln"
 }
